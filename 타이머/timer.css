@@ -1,0 +1,21 @@
+header{
+    display: inline;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button{
+    width:10%;
+    min-width: 100px;
+    height: 30px;
+}
+
+#timer{
+    text-align: center;
+    font-size: 40px;
+}
+
+body{
+    display: flex;
+}
